@@ -1,0 +1,98 @@
+a {
+  font-size: 24px;
+  font-weight: 700;
+
+  color: #8d81ff;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 40px;
+  letter-spacing: 2px;
+}
+#active {
+  color: #4e6fae;
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+#foto {
+  margin-left: 40px;
+}
+#contact {
+  color: #4e6fae;
+  font-size: 36px;
+  font-weight: 700;
+  text-align: left;
+  width: 474px;
+  height: 34px;
+}
+
+.address,
+.street {
+  display: inline-block;
+  vertical-align: top;
+}
+.address {
+  color: #7e8898;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.street {
+  color: #3f4145;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#div {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+  margin-left: 170px;
+}
+#conteiner {
+  background-color: #e7e7e7;
+
+  height: 735px;
+  top: -381px;
+  left: 2162px;
+  gap: 0px;
+  opacity: 0px;
+}
+#map {
+  width: 800px;
+  height: 549px;
+  top: -288px;
+  left: 2838px;
+  gap: 0px;
+  opacity: 0px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 65px;
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+nav {
+  margin-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+#facebookid {
+  margin-right: 20px;
+  border-right: 2px solid #5012d5;
+  padding-right: 20px;
+  margin-left: 20px;
+}

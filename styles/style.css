@@ -1,0 +1,146 @@
+a {
+  font-size: 24px;
+  font-weight: 700;
+
+  color: #8d81ff;
+  text-decoration: none;
+  text-decoration: none;
+  letter-spacing: 2px;
+  margin-right: 40px;
+}
+#active {
+  color: #4e6fae;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+#foto {
+  margin-right: 40px;
+  margin-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+#new-id {
+  color: #4e6fae;
+  font-size: 26px;
+  font-weight: 700;
+  width: 150px;
+  height: 34px;
+  margin-right: 10px;
+  border-right: 2px solid #5012d5;
+  padding-right: 20px;
+  margin-left: 150px;
+}
+#detal-id {
+  color: #4e6fae;
+  font-size: 26px;
+  font-weight: 400;
+  height: 34px;
+  width: 484px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.div-class {
+  width: 500px;
+  height: 192px;
+  top: 315px;
+  left: 885px;
+  gap: 0px;
+  opacity: 0px;
+
+  background-color: #e7e7e7;
+
+  vertical-align: top;
+  display: inline-block;
+
+  margin: 40px;
+  box-sizing: border-box;
+
+  font-family: "Roboto", sans-serif;
+}
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.p-class {
+  display: inline-block;
+  color: #7e8898;
+  vertical-align: top;
+  margin-top: 0%;
+  padding-right: 10px;
+  padding-left: 20px;
+  width: 335px;
+  height: 95px;
+  top: 380px;
+  left: 1035px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.31px;
+  text-align: left;
+}
+.img-class {
+  width: 77px;
+  height: 77px;
+  top: 389px;
+  left: 921px;
+  gap: 0px;
+  opacity: 0px;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+.h3-class {
+  color: #3f4145;
+  padding-top: 20px;
+  padding-left: 20px;
+  width: 307px;
+  height: 24px;
+  top: 336px;
+  left: 908px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 20px;
+  font-weight: 400;
+
+  text-align: left;
+}
+
+.h3-class,
+.p-class {
+  margin: 10px 0;
+}
+
+#image-id {
+  width: 1052px;
+  height: 462px;
+  top: -327px;
+  left: 885px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 150px;
+}
+#facebookid {
+  margin-right: 20px;
+  border-right: 2px solid #5012d5;
+  padding-right: 20px;
+  margin-left: 150px;
+}
+#div2-id {
+  margin-left: 150px;
+}
